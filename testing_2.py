@@ -1,2 +1,0 @@
-#TKlst
-print('test')
